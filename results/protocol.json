@@ -1,0 +1,24 @@
+{
+  "model_revision": "ea980cb0a6c2ae4b936e82123acc929f1cec04c1",
+  "llama_build": "b12100",
+  "context": 512,
+  "calibration_chunks": 32,
+  "validation_chunks": 32,
+  "gpu_layers": 99,
+  "batch": 512,
+  "ubatch": 512,
+  "kv_type": "f16",
+  "threads": 8,
+  "benchmark_repeats": 5,
+  "random_seed": 71,
+  "candidate_count": 8,
+  "upgrade_count": 3,
+  "random_groups": 3,
+  "calibration_prefix_characters": 140000,
+  "model_sha256": "6df85b39330e5a425ee36253d0f894e4387e4f0a15b9c53cb467d668e6b3a841",
+  "data_sha256": {
+    "wiki.train.raw": "6707892fa3788b5ab9ed78ab5ff37d9fe825f6011a2ad4fcd6a6d467f0e7da57",
+    "wiki.valid.raw": "4cd0f6876d07a413aa911261ff6d363c72d757d47f0fdd6015702014c89cb9c7",
+    "wiki.test.raw": "173c87a53759e0201f33e0ccf978e510c2042d7f2cb78229d9a50d79b9e7dd08"
+  }
+}

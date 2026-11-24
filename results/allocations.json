@@ -1,0 +1,36 @@
+{
+  "pool": [
+    "blk.0.ffn_down.weight",
+    "blk.4.ffn_down.weight",
+    "blk.8.ffn_down.weight",
+    "blk.12.ffn_down.weight",
+    "blk.15.ffn_down.weight",
+    "blk.19.ffn_down.weight",
+    "blk.23.ffn_down.weight",
+    "blk.27.ffn_down.weight"
+  ],
+  "models": {
+    "mixed_sensitive": [
+      "blk.27.ffn_down.weight",
+      "blk.12.ffn_down.weight",
+      "blk.4.ffn_down.weight"
+    ],
+    "mixed_random_1": [
+      "blk.0.ffn_down.weight",
+      "blk.4.ffn_down.weight",
+      "blk.8.ffn_down.weight"
+    ],
+    "mixed_random_2": [
+      "blk.12.ffn_down.weight",
+      "blk.23.ffn_down.weight",
+      "blk.8.ffn_down.weight"
+    ],
+    "mixed_random_3": [
+      "blk.15.ffn_down.weight",
+      "blk.23.ffn_down.weight",
+      "blk.27.ffn_down.weight"
+    ]
+  },
+  "validation_chunks": 32,
+  "seed": 71
+}

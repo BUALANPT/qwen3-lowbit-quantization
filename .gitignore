@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+tools/
+models/
+data/
+results/.run.lock
+results/environment.json
+results/logs/*
+!results/logs/final_verification.log
+results/*.tmp

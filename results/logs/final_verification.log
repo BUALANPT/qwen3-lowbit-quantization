@@ -1,0 +1,3 @@
+PASS: 9 CUDA runs, 584 held-out chunks per run, 6 INT4 rows and 8 ranked tensors.
+PASS: four allocations cost exactly 5,013,504 extra bytes and only the selected tensor payloads differ.
+PASS: raw logs, final CSV, file sizes and locked test order agree.

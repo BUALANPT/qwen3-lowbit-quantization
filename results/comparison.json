@@ -1,0 +1,12 @@
+{
+  "q2_to_sensitive_ppl_reduction": 1.2835,
+  "sensitive_nll_gap_recovered_fraction": 0.2531198000939204,
+  "random_ppl": [
+    14.2973,
+    14.2894,
+    13.0362
+  ],
+  "random_mean_ppl": 13.8743,
+  "sensitive_advantage_over_random_mean_ppl": 0.8338999999999999,
+  "extra_bytes_vs_q2": 5013504
+}

@@ -1,0 +1,5 @@
+﻿model,tensors,extra_payload_bytes,extra_file_bytes,file_bytes
+mixed_sensitive,"blk.27.ffn_down.weight, blk.12.ffn_down.weight, blk.4.ffn_down.weight",5013504,5013504,782808992
+mixed_random_1,"blk.0.ffn_down.weight, blk.4.ffn_down.weight, blk.8.ffn_down.weight",5013504,5013504,782808992
+mixed_random_2,"blk.12.ffn_down.weight, blk.23.ffn_down.weight, blk.8.ffn_down.weight",5013504,5013504,782808992
+mixed_random_3,"blk.15.ffn_down.weight, blk.23.ffn_down.weight, blk.27.ffn_down.weight",5013504,5013504,782808992
